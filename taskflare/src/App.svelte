@@ -23,7 +23,7 @@
         "completed": false,
       })
     }
-    
+
     function newProject() {
       projects.push({
         "name": "New Project",
